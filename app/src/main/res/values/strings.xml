@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia</string>
+
+    <string name="exceptionInErrorResponse">Exception in parsing error response.</string>
+    <string name="timeout">Request timed out</string>
+    <string name="connectException">Unable to connect host</string>
+    <string name="invalid_data">Invalid data receied.</string>
+    <string name="ssl">SSL cetificate error. Unable to handshake</string>
+    <string name="text_somethingwentwrong">Something went wrong. Please try again</string>
+    <string name="pleaseWait">Please wait ...</string>
+    <string name="no_internet">No internet Connection.</string>
+
+    <string name="key">lakjfalsjfiosdjl fowi 029u4893rji9pq3fw</string>
+    <string name="salt">sd;lfja094rjmo3wf90iewdf</string>
+</resources>

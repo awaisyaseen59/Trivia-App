@@ -1,0 +1,5 @@
+<resources>
+    <string name="development">https://opentdb.com/</string>
+    <string name="production">test.com</string>
+    <string name="local">test.com</string>
+</resources>
